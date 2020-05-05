@@ -71,13 +71,17 @@ services:
 
 Hasil dari test adalah sebagai berikut:
 - 100 partisi
+
 ![](/screenshot/1.5.1.png)
+
 ![](/screenshot/1.6.1.png)
 
 Dari gambar diatas, kita dapat mengetahui bahwa hasil pi-nya adalah 3.148160, dengan waktu 40s
 
 - 1000 partisi
+
 ![](/screenshot/1.5.2.png)
+
 ![](/screenshot/1.6.2.png)
 
 Dari gambar diatas, kita dapat mengetahui bahwa hasil pi-nya adalah 3.146740, dengan waktu 2.0 min
@@ -129,13 +133,17 @@ services:
 
 Hasil dari test adalah sebagai berikut:
 - 100 partisi
+
 ![](/screenshot/2.5.1.png)
+
 ![](/screenshot/2.6.1.png)
 
 Dari gambar diatas, kita dapat mengetahui bahwa hasil pi-nya adalah 3.137101, dengan waktu 1.1 min
 
 - 1000 partisi
+
 ![](/screenshot/2.5.2.png)
+
 ![](/screenshot/2.6.2.png)
 
 Dari gambar diatas, kita dapat mengetahui bahwa hasil pi-nya adalah 3.133723, dengan waktu 1.9 min
@@ -219,13 +227,17 @@ services:
 
 Hasil dari test adalah sebagai berikut:
 - 100 partisi
+
 ![](/screenshot/3.5.1.png)
+
 ![](/screenshot/3.6.1.png)
 
 Dari gambar diatas, kita dapat mengetahui bahwa hasil pi-nya adalah 3.141527, dengan waktu 1.9 min
 
 - 1000 partisi
+
 ![](/screenshot/3.5.2.png)
+
 ![](/screenshot/3.6.2.png)
 
 Dari gambar diatas, kita dapat mengetahui bahwa hasil pi-nya adalah 3.147340, dengan waktu 2.3 min
@@ -309,13 +321,17 @@ services:
 
 Hasil dari test adalah sebagai berikut:
 - 100 partisi
+
 ![](/screenshot/4.5.1.png)
+
 ![](/screenshot/4.6.1.png)
 
 Dari gambar diatas, kita dapat mengetahui bahwa hasil pi-nya adalah 3.138341, dengan waktu 3.3 min
 
 - 1000 partisi
+
 ![](/screenshot/4.5.2.png)
+
 ![](/screenshot/4.6.2.png)
 
 Dari gambar diatas, kita dapat mengetahui bahwa hasil pi-nya adalah 3.139542, dengan waktu 7.5 min
